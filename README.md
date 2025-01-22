@@ -34,11 +34,11 @@ Before you can run Jarvis A.I, ensure you have the following installed and confi
 
 1.  **Clone the Repository:**
     ```bash
-    git clone https://github.com/<your_github_username>/<your_repo_name>.git
+    git clone https://github.com/Rishiofficial432-432/studious-umbrella.git
     ```
 2.  **Navigate to the Project Directory:**
     ```bash
-    cd <your_repo_name>
+    cd studious-umbrella
     ```
 3.  **Install Python Libraries:**
    ```bash
