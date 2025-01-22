@@ -112,5 +112,5 @@ Contributions to Jarvis A.I are always welcome! Please feel free to fork the rep
 
 License
 
-This project is licensed under the MIT License (or specify the license you're using).
+This project is licensed under the MIT License.
 
